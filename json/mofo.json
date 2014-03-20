@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MoFo Events",
+    "title": "All MoFo External Events",
+    "focus_date": "2014-01-01 12:00",
+    "initial_zoom": "25",
+    "color": "#82530d",
+    "image_lane_height": 100,
+    "size_importance": "true",
+    "events":
+    [
+
+      {
+          "id": "mofo-1",
+          "title": "Day We Fight Back",
+          "startdate": "2014-02-01 12:00",
+          "enddate": "2014-02-28 12:00",
+
+          "description": "This is the 1st event entered <b>bold me</b> <span style='color: red'>make me red</span><br /> <a href='http://mozilla.org'>hyper link</a>",
+          "event_type": "event",
+          "icon": "mozilla.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "40",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-2",
+          "title": "Mozilla named Most Trusted",
+          "startdate": "2014-02-01 12:00",
+          "enddate": "2014-02-28 12:00",
+
+          "description": "This is the 2nd event entered",
+          "event_type": "event",
+          "icon": "circle_orange.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "20",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-3",
+          "title": "Gigabit Community Fund",
+          "startdate": "2014-02-01 12:00",
+          "enddate": "2014-02-28 12:00",
+
+          "description": "This is the 3rd event entered",
+          "event_type": "event",
+          "icon": "triangle_yellow.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "20",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-4",
+          "title": "Badge Summit -- Reconnect Learning",
+          "startdate": "2014-02-01 12:00",
+          "enddate": "2014-02-28 12:00",
+
+          "description": "This is the 4th event entered",
+          "event_type": "event",
+          "icon": "circle_red.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "20",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-5",
+          "title": "BadgeKit Beta launch",
+          "startdate": "2014-03-01 12:00",
+          "enddate": "2014-03-31 12:00",
+
+          "description": "This is the 5th event entered",
+          "event_type": "event",
+          "icon": "badgekit.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "30",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-6",
+          "title": "Fundraising Extermination Week",
+          "startdate": "2014-04-01 12:00",
+          "enddate": "2014-04-30 12:00",
+
+          "description": "This is the 6th event entered",
+          "event_type": "event",
+          "icon": "triangle_green.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "20",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-7",
+          "title": "Web Lit Standard Education Campaign",
+          "startdate": "2014-04-01 12:00",
+          "enddate": "2014-04-30 12:00",
+
+          "description": "This is the 7th event entered",
+          "event_type": "event",
+          "icon": "triangle_green.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "20",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-8",
+          "title": "SXSW Conference",
+          "startdate": "2014-03-01 12:00",
+          "enddate": "2014-03-31 12:00",
+
+          "description": "This is the 8th event entered",
+          "event_type": "event",
+          "icon": "triangle_green.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "20",
+          "ypix": "0",
+          "slug":""
+      }
+      ,
+      {
+          "id": "mofo-9",
+          "title": "Maker Party",
+          "startdate": "2014-07-01 12:00",
+          "enddate": "2014-09-30 12:00",
+
+          "description": "This is the 9th event entered",
+          "event_type": "event",
+          "icon": "circle_green.png",
+          "low_threshold": "1",
+          "high_threshold": "60",
+          "importance": "40",
+          "ypix": "0",
+          "slug":""
+      }
+    ]
+  }
+]
